@@ -1,4 +1,4 @@
-![Frontend Development](https://github.com/rahmanhamim/rahmanhamim/blob/main/Rahman%20Hamim.jpg)
+![Frontend Development](https://github.com/rahmanhamim/rahmanhamim/blob/main/rahman-hamim-banner.png)
 
 # Rahman Hamim
 
